@@ -12,7 +12,8 @@ Some subjects:
 4. Z-score
 5. Grubbs' test
 6. Prophets (Time Series)
+7. Kurtosis
 
 **To Do**
 
-7. IsolationForest
+- [ ] IsolationForest
